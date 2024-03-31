@@ -1,0 +1,34 @@
+{
+  "name": "rerumvoluptates",
+  "version": "1.0.0",
+  "description": "A node.js wrapper for the docker-machine CLI",
+  "main": "dist/index.js",
+  "files": [
+    "dist/",
+    "typings.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaxineRaynor/rerumvoluptates.git"
+  },
+  "keywords": [
+    "ea"
+  ],
+  "author": "ThaddeusRice",
+  "license": "MIT",
+  "devDependencies": {
+    "blue-tape": "^0.2.0",
+    "bluebird": "^3.4.0",
+    "rimraf": "^2.5.2",
+    "tap-diff": "^0.1.1",
+    "ts-node": "^0.7.3",
+    "tslint": "^3.10.2",
+    "typescript": "^1.8.10"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "cli-table-2-json": "^1.0.8",
+    "lodash": "^4.12.0",
+    "shelljs": "^0.7.0"
+  }
+}
